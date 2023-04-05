@@ -154,9 +154,9 @@ img {
 .address-list-item {
   margin-right: 40px;
 }
-.address-list-item:last-child {
+/* .address-list-item:last-child {
   margin-right: 0;
-}
+} */
 /**
   |============================
   | hero section
@@ -278,9 +278,9 @@ img {
 .product-list-item {
   margin-right: 24px;
 }
-.product-list-item:last-child {
+/* .product-list-item:last-child {
   margin-right: 0;
-}
+} */
 .list.product:nth-last-child(3n) {
   margin-right: 0;
 }
